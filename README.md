@@ -3,10 +3,10 @@ This is based on some things I saw floating around on Twitter and Hacker News, w
 
 [![Screenshot of a tweet from steveklabnik showing a post where a developer is using Notepad to log application output.](tweet.png)](https://twitter.com/steveklabnik/status/1263190719721766918)
 
-I would be remiss if Go programs couldn't join in on the fun.
+I would feel remiss if I didn't help Go programs join in on the fun.
 
 ## Why?
-¯\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
 
 ## How?
 
